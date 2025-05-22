@@ -1,4 +1,4 @@
-# CRM-Admin-Panel 📖 (customer relationship management)
+# CRM-Admin-Panel 📖 (customer relationship management):
 
 A CRM admin panel built using the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire). The project provides an interface for managing clients, featuring real-time updates, form creation, and a customizable data table for streamlined client management.
 
